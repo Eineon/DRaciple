@@ -4,7 +4,7 @@
 
 project = '常夜国骑士谭RPG'
 copyright = '2016, 神谷涼／インコグ・ラボ'
-version = 'v1.0'
+release = 'v1.0'
 
 # -- General configuration
 
@@ -34,7 +34,7 @@ html_css_files = ["drac-style.css"]
 html_js_files = ["drac-script.js"]
 
 # -- Options for HTMLHelp output
-htmlhelp_basename = '常夜国骑士谭RPG 规则书整合'
+htmlhelp_basename = '常夜国骑士谭RPG 资源整合'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
